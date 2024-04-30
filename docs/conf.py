@@ -11,8 +11,10 @@ To build each project, the ``PROJECT`` environment variable is used.
 for more information read https://sphinx-multiproject.readthedocs.io/.
 """
 
+
 import os
 import sys
+
 
 from multiproject.utils import get_project
 
